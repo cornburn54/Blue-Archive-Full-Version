@@ -247,3 +247,6 @@ This repository serves as the official landing page for Blue Archive. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Blue Archive today!**
+
+---
+**Last updated:** 2026-09-07 22:25:59 UTC
