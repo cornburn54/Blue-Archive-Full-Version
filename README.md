@@ -249,4 +249,4 @@ This repository serves as the official landing page for Blue Archive. The softwa
 **Get the most recent version of Blue Archive today!**
 
 ---
-**Last updated:** 2026-09-25 17:41:38 UTC
+**Last updated:** 2026-09-25 20:57:10 UTC
